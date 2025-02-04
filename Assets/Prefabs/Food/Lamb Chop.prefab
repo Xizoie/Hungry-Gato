@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4423918317343913218}
   m_Layer: 0
   m_Name: Lamb Chop
-  m_TagString: Food
+  m_TagString: HighCalFood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

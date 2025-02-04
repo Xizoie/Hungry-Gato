@@ -46,9 +46,9 @@ public class GameManager : MonoBehaviour
 
 
     //calculate how much food did player ate, 5% each food
-    public void SumAte()
+    public void SumAte(int fulnessScore)
     {
-        fullness += 5;
+        fullness += fulnessScore;
         fullnessText.text = "Satiation Level : " + fullness + "%";
     }
 

@@ -4795,9 +4795,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 880439306}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6890cdc2151620843b42dafc1744d088, type: 3}
+  m_Script: {fileID: 11500000, guid: eb3c8b68c1524cc438a9738c8bedaf50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _eatSFX:
+  - {fileID: 8300000, guid: a958e887298b0ff4890fd2170f959c96, type: 3}
+  - {fileID: 8300000, guid: 99c91fdc314d999479ea74a145bf5898, type: 3}
+  - {fileID: 8300000, guid: e77db66f30ce2dc46982247d4c202987, type: 3}
+  audioSource: {fileID: 1879874457}
 --- !u!1 &891400550
 GameObject:
   m_ObjectHideFlags: 0

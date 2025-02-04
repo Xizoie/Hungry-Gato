@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5072261379978987237}
   m_Layer: 0
   m_Name: Salmon Cut
-  m_TagString: Food
+  m_TagString: LowCalFood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
