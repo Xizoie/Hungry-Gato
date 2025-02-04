@@ -1752,10 +1752,10 @@ PrefabInstance:
       addedObject: {fileID: 1879874454}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 31d2c91682ac6f045b4b75ebf27e5d77, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1879874455}
+      addedObject: {fileID: 1879874457}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 31d2c91682ac6f045b4b75ebf27e5d77, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1879874457}
+      addedObject: {fileID: 1879874455}
     - targetCorrespondingSourceObject: {fileID: 5908567169676364446, guid: 31d2c91682ac6f045b4b75ebf27e5d77, type: 3}
       insertIndex: -1
       addedObject: {fileID: 262591770}
@@ -5583,7 +5583,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oh No!\nYou were too lazy to even eat, now \nThe Master is Very engry"
+  m_text: "Oh No!\nYou were too lazy to even eat, now \nThe Master is Very Angry"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10381,11 +10381,11 @@ AudioSource:
   m_GameObject: {fileID: 1840109836}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 6b3aa7aec8a5b54418b3d8e6593aa8b7, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.02
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -10671,8 +10671,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.31841153, y: 0.2564376, z: 0.21205752}
-  m_Center: {x: 0.0018088222, y: 0.095798954, z: 0.23278065}
+  m_Size: {x: 0.31841153, y: 0.25643763, z: 0.22392032}
+  m_Center: {x: 0.0018088222, y: 0.09579893, z: 0.23871197}
 --- !u!114 &1879874455
 MonoBehaviour:
   m_ObjectHideFlags: 0

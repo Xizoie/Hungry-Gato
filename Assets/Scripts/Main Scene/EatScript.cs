@@ -27,7 +27,7 @@ public class EatScript : MonoBehaviour
         {
             Destroy(other.gameObject);
             uiScript.SumAte(fullnessScore);
-            audioSource.PlayOneShot(_eatSFX[_randIndex], 0.01f);
+            audioSource.PlayOneShot(_eatSFX[_randIndex], 0.05f);
         }
         else if (Input.GetKeyUp(KeyCode.E) && other.CompareTag("HighCalFood"))
         {
